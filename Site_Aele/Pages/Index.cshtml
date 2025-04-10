@@ -1,0 +1,23 @@
+﻿@page
+@model IndexModel
+@{
+   
+}
+
+<div class="titulo">
+    <h1>Calculadora de Notas</h1>
+</div>
+<div class="texto-nota-1">
+    <p>Insira a nota da prova 1</p>
+</div>
+
+<form method="post" >
+    <div class="caixa-entrada">
+        <input asp-for="Nota1" type="number" name="nota1" step="0.1" min="0" max="10" />
+    </div>
+    <div class="container-centro">
+    <button class="botao-enviar" type="submit">Calcular</button>
+    </div>
+</form>
+
+

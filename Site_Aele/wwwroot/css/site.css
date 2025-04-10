@@ -1,0 +1,114 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #808080;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 0;
+  padding-bottom: 60px;
+  font-family: Arial
+}
+
+.titulo h1 {
+    text-align: center;
+    display: block;
+    color: #0e1483;
+    font-family: 'Gill Sans';
+    margin-top: 40px;
+    font-size: 80px;
+    text-shadow: 3px 3px 8px rgb(118, 109, 109);
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+footer {
+    position: absolute; /* Posiciona na parte inferior da página */
+    bottom: 0; /* Sempre na parte de baixo */
+    width: 100%; /* Faz o rodapé ocupar toda a largura */
+    background-color: #f8f9fa; /* Cor do fundo */
+    text-align: center; /* Centraliza o texto */
+    padding: 10px 0; /* Espaçamento interno */
+    font-size: 14px; /* Tamanho da fonte */
+    color: #6c757d; /* Cor do texto */
+}
+
+.texto-nota-1{
+    text-align: center;
+    display: block;
+    margin-top: 120px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: #051d57
+}
+
+.caixa-entrada {
+    margin: 20px 0;
+    text-align: center;
+}
+
+.caixa-entrada input {
+        width: 410px;
+        padding: 6px;
+        font-size: 16px;
+        border: 3px solid #051d57;
+        border-radius: 20px;
+}
+
+.botao-enviar {
+    color: #f8f9fa;
+    border-radius: 20px;
+    background-color: #051d57;
+    border: none;
+    padding: 6px 25px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+    transition: background-color 1s;
+    margin: 100px 0;
+    
+    
+}
+
+.botao-enviar:hover{
+    background-color: #082e8b;
+}
+
+.botao-enviar:active{
+    animation: piscar 1s ease;
+}
+
+@keyframes piscar{
+    0% {
+        backgound-color: #082e8b;
+    }
+    50%{
+        background-color: #6c757d;
+    }
+    100% {
+        background-color: #082e8b;
+    }
+}
+
+.container-centro {
+    display: flex; /* Ativa o layout flexbox */
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+    height: 100vh; /* Faz o contêiner ocupar a altura total da tela */
+}

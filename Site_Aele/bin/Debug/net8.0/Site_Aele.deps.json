@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Site_Aele/1.0.0": {
+        "runtime": {
+          "Site_Aele.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Site_Aele/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

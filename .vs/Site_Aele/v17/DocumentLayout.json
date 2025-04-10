@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\notamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\notamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\site_aele.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\site_aele.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|c:\\users\\user\\source\\repos\\site\\site_aele\\site_aele\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B370E16C-B02E-4789-8EBF-EEC520A5EC1A}|Site_Aele\\Site_Aele.csproj|solutionrelative:site_aele\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Site_Aele\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Site_Aele\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-09T21:05:54.264Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Site_Aele\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Site_Aele\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T20:55:14.922Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Site_Aele\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Site_Aele\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:46:04.524Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Program.cs",
+              "RelativeDocumentMoniker": "Site_Aele\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Program.cs",
+              "RelativeToolTip": "Site_Aele\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T20:45:33.88Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotaModels.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\NotaModels.cs",
+              "RelativeDocumentMoniker": "Site_Aele\\NotaModels.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\NotaModels.cs",
+              "RelativeToolTip": "Site_Aele\\NotaModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T00:08:41.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "favicon.ico - Icon [32x32, 32 bits, BMP]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "Site_Aele\\wwwroot\\favicon.ico",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\wwwroot\\favicon.ico - Icon [32x32, 32 bits, BMP]",
+              "RelativeToolTip": "Site_Aele\\wwwroot\\favicon.ico - Icon [32x32, 32 bits, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-04-09T22:20:36.242Z",
+              "EditorCaption": " - Icon [32x32, 32 bits, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "Site_Aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "Site_Aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-09T21:34:10.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "Site_Aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "Site_Aele\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-09T21:33:50.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Site_Aele\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Site_Aele\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T20:54:03.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Site_Aele\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Site_Aele\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:52:58.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Site_Aele\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Site_Aele\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:52:57.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Site_Aele\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Site_Aele\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:52:54.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Site_Aele\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Site_Aele\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T20:52:50.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site_Aele",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Site_Aele.csproj",
+              "RelativeDocumentMoniker": "Site_Aele\\Site_Aele.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\Site_Aele.csproj",
+              "RelativeToolTip": "Site_Aele\\Site_Aele.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T20:51:59.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
