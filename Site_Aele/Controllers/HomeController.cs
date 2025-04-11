@@ -18,6 +18,7 @@ public class HomeController : Controller
             return View(model); // Retorna os erros de validação à View.
         }
 
+<<<<<<< HEAD
         double nota1 = model.Nota1; // Processa a nota válida.
         double nota2 = model.Nota2;
         double? notaPim = model.NotaPim;
@@ -66,6 +67,22 @@ public class HomeController : Controller
                 NotaModels model = new NotaModels();
                 return View(model);
             }
+=======
+        float nota1 = model.Nota1; // Processa a nota válida.
+        float nota2 = model.Nota2;
+        float notaPim = model.NotaPim;
+        float media = (float)(nota1 * 0.4) + (float)(nota2 * 0.4) + (float)(notaPim * 0.2);
+
+        TempData["Media"] = media;
+        return RedirectToAction("success");
+    }
+
+    public IActionResult Index()
+    {
+        NotaModels model = new NotaModels();
+        return View(model);
+    }
+>>>>>>> abe7f2e (Adição da lógica de calculo das notas e teste lógico de aprovação e reprovação)
 
 
 }
