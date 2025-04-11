@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Site_Aele")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c9c82eb14051bf2c7a79b8c63ab4b38c410572d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Site_Aele")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Site_Aele")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/+cjpluIfooW5EUJadBSJZdaOY5L0zWv5gbKIjd3kw4=",
+  "Hash": "PPVqi/d7y7k/8Txa8P2pUMJSONXvfLzFbZfCkWnAzTg=",
   "Source": "Site_Aele",
   "BasePath": "_content/Site_Aele",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "yg3uu6nu7k",
-      "Integrity": "EhNjnEtcf6UPzMsdRHB2QTYQ1SvJBugPQ/Ivsz1/E88=",
+      "Fingerprint": "9m021h3ywn",
+      "Integrity": "X1uiEQsl5l260xEtRHO1AjznO1Bj9PoHHlDCXCQ+0+M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1424,6 +1424,51 @@
       ]
     },
     {
+      "Route": "css/site.9m021h3ywn.css",
+      "AssetFile": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3455"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"X1uiEQsl5l260xEtRHO1AjznO1Bj9PoHHlDCXCQ+0+M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 10 Apr 2025 21:46:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9m021h3ywn"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-X1uiEQsl5l260xEtRHO1AjznO1Bj9PoHHlDCXCQ+0+M="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1434,7 +1479,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2425"
+          "Value": "3455"
         },
         {
           "Name": "Content-Type",
@@ -1442,11 +1487,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"EhNjnEtcf6UPzMsdRHB2QTYQ1SvJBugPQ/Ivsz1/E88=\""
+          "Value": "\"X1uiEQsl5l260xEtRHO1AjznO1Bj9PoHHlDCXCQ+0+M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 01:46:35 GMT"
+          "Value": "Thu, 10 Apr 2025 21:46:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1456,52 +1501,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-EhNjnEtcf6UPzMsdRHB2QTYQ1SvJBugPQ/Ivsz1/E88="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.yg3uu6nu7k.css",
-      "AssetFile": "C:\\Users\\User\\source\\repos\\Site\\Site_Aele\\Site_Aele\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2425"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"EhNjnEtcf6UPzMsdRHB2QTYQ1SvJBugPQ/Ivsz1/E88=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 10 Apr 2025 01:46:35 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "yg3uu6nu7k"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-EhNjnEtcf6UPzMsdRHB2QTYQ1SvJBugPQ/Ivsz1/E88="
+          "Value": "sha256-X1uiEQsl5l260xEtRHO1AjznO1Bj9PoHHlDCXCQ+0+M="
         }
       ]
     },

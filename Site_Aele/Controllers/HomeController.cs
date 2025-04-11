@@ -17,12 +17,20 @@ public class HomeController : Controller
             return View(model); // Retorna os erros de validação à View.
         }
 
-        float nota = model.Nota1; // Processa a nota válida.
-        return RedirectToAction("Success");
+        float nota1 = model.Nota1; // Processa a nota válida.
+        float nota2 = model.Nota2;
+        float notaPim = model.NotaPim;
+        float media = (float)(nota1 * 0.4) + (float)(nota2 * 0.4) + (float)(notaPim * 0.2);
+
+        TempData["Media"] = media;
+        return RedirectToAction("success");
     }
 
-    public IActionResult Success()
+    public IActionResult Index()
     {
-        return View(); // Mostra uma página de sucesso após o envio.
+        NotaModels model = new NotaModels();
+        return View(model);
     }
+
+
 }

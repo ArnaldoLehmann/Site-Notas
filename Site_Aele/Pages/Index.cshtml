@@ -1,5 +1,5 @@
 ﻿@page
-@model IndexModel
+@model Site_Aele.NotaModels
 @{
    
 }
@@ -10,14 +10,34 @@
 <div class="texto-nota-1">
     <p>Insira a nota da prova 1</p>
 </div>
+<div class="texto-nota-2">
+    <p>Insira a nota da prova 2</p>
+</div>
+<div class="texto-nota-pim">
+    <p>Insira a nota do pim (se tiver)</p>
+</div>
+
 
 <form method="post" >
-    <div class="caixa-entrada">
-        <input asp-for="Nota1" type="number" name="nota1" step="0.1" min="0" max="10" />
+    <!--Caixas de entrada-->
+   
+    <div class="caixa-entrada-nota1"> 
+        <input asp-for="Nota1" type="number" name="nota1" step="0.5" min="0" max="10" />
+    </div>
+    <div class="caixa-entrada-nota2">
+        <input asp-for="Nota2" type="number" name="nota2" step="0.5" min="0" max="10" />
+    </div>
+    <div class="caixa-entrada-pim">
+        <input asp-for="NotaPim" type="number" name="notaPim" step="0.5" min="0" max="10" />
     </div>
     <div class="container-centro">
+        <!--Botão de envio-->
     <button class="botao-enviar" type="submit">Calcular</button>
     </div>
 </form>
+
+
+
+
 
 

@@ -32,3 +32,4 @@ C:\Users\User\source\repos\Site\Site_Aele\Site_Aele\obj\Debug\net8.0\refint\Site
 C:\Users\User\source\repos\Site\Site_Aele\Site_Aele\obj\Debug\net8.0\Site_Aele.pdb
 C:\Users\User\source\repos\Site\Site_Aele\Site_Aele\obj\Debug\net8.0\Site_Aele.genruntimeconfig.cache
 C:\Users\User\source\repos\Site\Site_Aele\Site_Aele\obj\Debug\net8.0\ref\Site_Aele.dll
+C:\Users\User\source\repos\Site\Site_Aele\Site_Aele\obj\Debug\net8.0\Site_Aele.sourcelink.json

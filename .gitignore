@@ -1,0 +1,12 @@
+# Ignorar arquivos temporários do Visual Studio
+.vs/
+*.vsidx
+
+# Ignorar arquivos de compilação
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.suo
