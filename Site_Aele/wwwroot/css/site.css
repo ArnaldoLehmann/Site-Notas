@@ -17,6 +17,11 @@ html {
   min-height: 100%;
 }
 
+html, body {
+    height: 100vh; /* Limita a altura da página ao tamanho da tela */
+    overflow: hidden; /* Remove a barra de rolagem */
+}
+
 body {
   margin-bottom: 0;
   padding-bottom: 60px;
@@ -122,6 +127,8 @@ footer {
     cursor: pointer;
     transition: background-color 1s;
     margin: 100px 0;
+    position: relative;
+    top: -450px;
     
     
 }

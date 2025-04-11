@@ -7,14 +7,14 @@ namespace Site_Aele
     {
         [Required] // Validação para garantir que o campo seja obrigatório.
         [Range(0, 10, ErrorMessage = "A nota deve estar entre 0 e 10.")]
-        public float Nota1 { get; set; }
+        public double Nota1 { get; set; }
 
         [Required] // Validação para a segunda nota.
         [Range(0, 10, ErrorMessage = "A nota deve estar entre 0 e 10.")]
-        public float Nota2 { get; set; }
+        public double Nota2 { get; set; }
 
-        
+
         [Range(0, 10, ErrorMessage = "A nota deve estar entre 0 e 10.")]
-        public float NotaPim { get; set; }
+        public double? NotaPim { get; set; }
     }
 }
